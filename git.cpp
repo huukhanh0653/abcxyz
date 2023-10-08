@@ -1,6 +1,8 @@
 #include <iostream>
 
-using namespace name
+using namespace std;
+
+int main()
 {
-    
-} // namespace name
+    return 0;
+}
